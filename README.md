@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @SSNarvekar04
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 👋 Hi, I’m @SSNarvekar04
 
-<!---
-SSNarvekar04/SSNarvekar04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in coding, software development, and building creative tech solutions.
+- 🌱 I’m currently learning full-stack development and exploring technologies like JavaScript, Python, and cloud computing.
+- 💞️ I’m looking to collaborate on open-source projects, coding challenges, and innovative app ideas.
+- 📫 How to reach me: [mailto:salonisachindranathnarvekar@gmail.com]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving logic puzzles and debugging code late at night like it’s a mystery adventure!
