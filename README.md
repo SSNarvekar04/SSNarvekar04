@@ -5,4 +5,4 @@
 - 💞️ I’m looking to collaborate on open-source projects, coding challenges, and innovative app ideas.
 - 📫 How to reach me: [mailto:salonisachindranathnarvekar@gmail.com]
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I love solving logic puzzles and debugging code late at night like it’s a mystery adventure!
+- ⚡ Fun fact: I love solving logic puzzles and debugging code like it’s a mystery adventure!
